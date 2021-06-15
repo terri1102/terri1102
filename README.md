@@ -10,7 +10,12 @@
 * [ipo 수익률 예측 웹앱](https://github.com/terri1102/IPO_returns_predictor)
 * [강화학습 주식투자](https://github.com/terri1102/rl_model_v1)
 
+### 블로그
+https://terri1102.github.io/
+
 ### 📫 연락처
+
+[email](terricodes@gmail.com)
 
 <!--
 **terri1102/terri1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
