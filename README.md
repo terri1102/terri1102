@@ -1,5 +1,17 @@
 ### Hi there 👋
-안녕하세요!
+안녕하세요! 
+
+### 🌱 관심사
+
+
+### 프로젝트
+* [데이터 분석 리포트]
+* [QA 모델]
+* [ipo 수익률 예측 웹앱](https://github.com/terri1102/IPO_returns_predictor)
+* [강화학습 주식투자](https://github.com/terri1102/rl_model_v1)
+
+### 📫 연락처
+
 <!--
 **terri1102/terri1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
