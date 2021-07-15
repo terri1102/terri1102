@@ -8,7 +8,7 @@
 * [데이터 분석 리포트](https://github.com/terri1102/data_analysis_portfolio)
 * [QA 모델]
 * [ipo 수익률 예측 웹사이트](https://github.com/terri1102/IPO_returns_predictor)
-* [강화학습 주식투자](https://github.com/terri1102/rl_model_v1)
+* [강화학습 주식투자]
 
 ### ✨ 블로그
 https://terri1102.github.io/
