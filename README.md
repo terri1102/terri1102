@@ -8,7 +8,7 @@
 * [Toxic Speech Detection](https://github.com/terri1102/toxic_speech_detection)
 * [데이터 분석 리포트](https://github.com/terri1102/data_analysis_portfolio)
 * [QA 모델]
-* [강화학습 주식투자]
+
 
 ### ✨ 블로그
 https://terri1102.github.io/
