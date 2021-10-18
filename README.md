@@ -16,6 +16,10 @@
 ### ✨ 블로그
 https://terri1102.github.io/
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### 📫 연락처
 
 [email](terricodes@gmail.com)
