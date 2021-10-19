@@ -7,10 +7,10 @@
 ### 📋 프로젝트
 * [Toxic Speech Detection](https://github.com/terri1102/toxic_speech_detection)
 * [데이터 분석 리포트](https://github.com/terri1102/data_analysis_portfolio)
-* [QA 모델]
 
 
-### ⚡ 기술 스택
+
+<--### ⚡ 기술 스택-->
 
 
 ### ✨ 블로그
