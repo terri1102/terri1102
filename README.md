@@ -6,6 +6,7 @@
 
 ### 📋 프로젝트
 * [Toxic Speech Detection](https://github.com/terri1102/toxic_speech_detection)
+* [주가 데이터 분석](https://github.com/terri1102/Stock_price_prediction/blob/main/stock_price_prediction.ipynb)
 * [데이터 분석 리포트](https://github.com/terri1102/data_analysis_portfolio)
 
 
