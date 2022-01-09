@@ -1,29 +1,7 @@
 ### Hi there 👋
 안녕하세요! 
 
-### 🌱 관심사
-자연어처리와 시계열 데이터에 관심을 갖고 공부 중입니다. 
 
-### 📋 프로젝트
-* [Toxic Speech Detection](https://github.com/terri1102/toxic_speech_detection)
-* [주가 데이터 분석](https://github.com/terri1102/Stock_price_prediction/blob/main/stock_price_prediction.ipynb)
-* [데이터 분석 리포트](https://github.com/terri1102/data_analysis_portfolio)
-
-
-
-<!-- ### ⚡ 기술 스택-->
-
-
-### ✨ 블로그
-https://terri1102.github.io/
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-### 📫 연락처
-
-[email](terricodes@gmail.com)
 
 <!--
 **terri1102/terri1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
