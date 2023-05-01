@@ -1,4 +1,4 @@
-
+[![terri's GitHub stats](https://github-readme-stats.vercel.app/api?username=terri1102)](https://github.com/terri1102/github-readme-stats)
 
 
 <!--
