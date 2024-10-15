@@ -1,5 +1,16 @@
-[![terri's GitHub stats](https://github-readme-stats.vercel.app/api?username=terri1102)](https://github.com/terri1102/github-readme-stats)
+## Welcome to my page!
+I'm Terri, A Machine Learning Engineer interested in 
+🔭
+🌱 I’m currently learning ...
 
+
+## Things I code with
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
+🌍 I'm mostly active within the Laravel Community
+💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
+💬 ping me about design, branding, laravel, development, design thinking
 
 <!--
 **terri1102/terri1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
