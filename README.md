@@ -1,10 +1,10 @@
 # Welcome to my page 👋
-I'm Terri, a Machine Learning Engineer passionate about efficient model serving and audio processing.
+I'm Terri, an MLOps Engineer passionate about efficient model serving and scalable architecture.
 
-## 🚀 About Me
-- 🔭 I'm currently working on optimizing ML model deployment for production environments
-- 💡 I'm interested in improving productivity and workflow efficiency through AI solutions
-- 🌱 I'm learning advanced techniques in audio signal processing and deep learning for audio applications
+🚀 About Me
+🔭 I'm currently working on optimizing ML model deployment for production environments
+💡 I'm passionate about improving productivity and workflow efficiency through AI-driven solutions
+🌱 I'm currently exploring advanced techniques in model monitoring, CI/CD pipelines, and scalable serving frameworks
 - 📫 How to reach me: [email](terricodes@gmail.com)
 
 ## 🛠 Technologies & Tools
