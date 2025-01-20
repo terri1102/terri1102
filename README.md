@@ -1,10 +1,10 @@
 # Welcome to my page 👋
 I'm Terri, an MLOps Engineer passionate about efficient model serving and scalable architecture.
 
-🚀 About Me
-🔭 I'm currently working on optimizing ML model deployment for production environments
-💡 I'm passionate about improving productivity and workflow efficiency through AI-driven solutions
-🌱 I'm currently exploring advanced techniques in model monitoring, CI/CD pipelines, and scalable serving frameworks
+## About Me
+- 🔭 I'm currently working on optimizing ML model deployment for production environments.
+- 💡 I'm passionate about improving productivity and workflow efficiency through AI-driven solutions.
+- 🌱 I'm currently exploring advanced techniques in model monitoring, CI/CD pipelines, and scalable serving frameworks.
 - 📫 How to reach me: [email](terricodes@gmail.com)
 
 ## 🛠 Technologies & Tools
@@ -15,6 +15,8 @@ I'm Terri, an MLOps Engineer passionate about efficient model serving and scalab
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 
 
